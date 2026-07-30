@@ -6,7 +6,7 @@
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB%20Atlas-green.svg?style=for-the-badge&logo=mongodb)](https://www.mongodb.com)
 [![OpenAI](https://img.shields.io/badge/AI-OpenAI%20API-orange.svg?style=for-the-badge)](https://openai.com)
 
-A production-grade **Database Management System (DBMS)** web application built using the MERN stack. Designed to streamline placement preparation, automate resume analysis, generate AI mock interviews, track tasks, and monitor progress with role-based dashboard metrics for students, mentors, and administrators.
+A production-grade web application built using the MERN stack. Designed to streamline placement preparation, automate resume analysis, generate AI mock interviews, track tasks, and monitor progress with role-based dashboard metrics for students, mentors, and administrators.
 
 ---
 
